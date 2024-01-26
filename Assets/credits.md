@@ -4,11 +4,11 @@ I do not claim any ownership or rights over them. These wallpapers are purely fa
 and are intended for personal use only. (https://endeavouros.com/)
 
 ## 🖋️ Fonts
-**Darumadrop One** designed by Maniackers Design from Google Fonts (2024).
-  https://fonts.google.com/specimen/Darumadrop+One
-**Montserrat** designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral & Jacques Le Bailly from Google Fonts (2024).
+**Darumadrop One** designed by Maniackers Design from Google Fonts (2024).</br>
+https://fonts.google.com/specimen/Darumadrop+One </br></br>
+**Montserrat** designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral & Jacques Le Bailly from Google Fonts (2024).</br> 
   https://fonts.google.com/specimen/Montserrat
 
 ## 🎨 Mockup
 From Canva (2024). 
-  https://www.canva.com/apps/Mockups/mockups?q=Mockups
+  https://www.canva.com/apps/Mockups/mockups?q=Mockups 
