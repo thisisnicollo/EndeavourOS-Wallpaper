@@ -6,14 +6,15 @@
 
 # 🖼️ EndeavourOS Wallpapers
 
-This repository contains a collection of wallpapers inspired by [EndeavourOS](https://endeavouros.com/).
+Hey there! We're excited to share with you this repository full of amazing wallpapers inspired by [EndeavourOS](https://endeavouros.com/). 
+Take a look and find the perfect one for you 🧸💻🤍! 
 
 
 ## 📄 Disclaimer
 
-The logos and trademarks used in these wallpapers belong to their respective owners. 
-I do not claim any ownership or rights over them. These wallpapers are purely fan-made 
-and are intended for personal use only. (https://endeavouros.com/)
+The logos and trademarks used in these wallpapers belong to their respective owners.
+I want to make it clear that I do not claim any ownership or rights over them. 
+These wallpapers are purely fan-made and are intended for personal use only. (https://endeavouros.com/)
 
 All wallpapers in this collection were created by [thisisnicollo](https://github.com/thisisnicollo).
 
