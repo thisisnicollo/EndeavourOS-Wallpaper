@@ -20,7 +20,7 @@ All wallpapers in this collection were created by [thisisnicollo](https://github
 
 ## 📥 Usage
 
-Simply download the wallpapers from the [Releases](link_to_releases) section.
+Just go ahead and download the wallpapers 🤗.
 
 ## 🖥️ All Wallpapers
 All preview wallpapers are in 4K version.
