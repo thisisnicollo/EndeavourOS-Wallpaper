@@ -21,14 +21,14 @@ All wallpapers in this collection were created by [thisisnicollo].
 
 Simply download the wallpapers from the [Releases](link_to_releases) section.
 
-# [EndeavourOS Wallpaper 3840x2160](https://github.com/your_username/EndeavourOS-Wallpaper/4K)
+# [EndeavourOS Wallpaper 3840x2160](https://github.com/thisisnicollo/EndeavourOS-Wallpaper/4K)
 
 
 
-# [EndeavourOS Wallpaper 2560x1440](https://github.com/your_username/EndeavourOS-Wallpaper/2K)
+# [EndeavourOS Wallpaper 2560x1440](https://github.com/thisisnicollo/EndeavourOS-Wallpaper/2K)
 
 
 
-# [EndeavourOS Wallpaper 1920x1080](https://github.com/your_username/EndeavourOS-Wallpaper/Full%20HD)
+# [EndeavourOS Wallpaper 1920x1080](https://github.com/thisisnicollo/EndeavourOS-Wallpaper/Full%20HD)
 
 
