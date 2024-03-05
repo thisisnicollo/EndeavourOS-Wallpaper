@@ -6,8 +6,7 @@
 
 # 🖼️ EndeavourOS Wallpapers
 
-Hey there! We're excited to share with you this repository full of amazing wallpapers inspired by [EndeavourOS](https://endeavouros.com/). 
-Take a look and find the perfect one for you 🧸💻🤍! 
+Hey there! I'm thrilled to introduce you to this treasure trove of stunning wallpapers inspired by [EndeavourOS](https://endeavouros.com/). Take a moment to browse through and discover the one that speaks to you the most. 🧸💻🤍 Get ready to elevate your desktop experience!
 
 
 ## 📄 Disclaimer
